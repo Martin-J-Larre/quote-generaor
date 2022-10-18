@@ -16,5 +16,5 @@ This project is a Quote Generator. You can get random quotes from different auth
 
 ## Demo
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://martin-j-larre.github.io/quote-generator/](https://martin-j-larre.github.io/quote-generator/)
 
