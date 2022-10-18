@@ -12,7 +12,7 @@ This project is a Quote Generator. You can get random quotes from different auth
 - JavaScript 
   - ES6
   - Fetch Api
-  - DOM manipulaion
+  - DOM manipulation
 
 ## Demo
 
